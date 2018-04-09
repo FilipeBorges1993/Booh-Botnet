@@ -1,0 +1,212 @@
+.combo-select {
+    position: relative;
+    border-bottom: solid 1px #d2d2d2;
+
+    font: 100% Helvetica, Arial, Sans-serif;
+    font-size: 14px;
+}
+.combo-select .combo-input {
+    margin-bottom: 0;
+    box-sizing: inherit;
+}
+/**
+ * Input field
+ */
+.combo-input {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    border: none;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0;
+    height: 34px;
+    line-height: 34px;
+    padding-right: 34px;
+    border-radius: 0px;
+    font-size: 14px;
+    box-sizing: inherit;
+}
+.combo-input:focus {
+    outline: none;
+}
+/**
+ * Arrow
+ */
+.combo-arrow {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    cursor: pointer;
+    text-align: center;
+    font-size: 22px;
+    width: 40px;
+    color: #999999;
+    display: none;
+}
+.combo-arrow:before {
+    content: "\f107";
+    font-family: 'FontAwesome';
+    font-size: 22px;
+    top: -25px;
+    display: block;
+    width: 0;
+    height: 0;
+    right: 25px;
+    bottom: 0;
+    position: absolute;
+    margin: auto 0;
+}
+/**
+ * When opened
+ */
+.combo-open .combo-arrow {
+    border-color: #51A7E8;
+}
+.combo-open .combo-arrow:before {
+    content: "\f106";
+}
+/**
+ * When focused
+ */
+.combo-focus {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+    border-color: #51A7E8;
+}
+.combo-focus input {
+    border-color: #51A7E8;
+}
+/**
+ * Hide native select
+ */
+.combo-select select {
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    -webkit-appearance: none;
+    opacity: 0;
+}
+
+@media only screen and (min-width: 960px) {
+    .combo-select select {
+        left: -1px;
+        top: -1px;
+        width: 0;
+        height: 0;
+        margin: 0;
+    }
+}
+/**
+ * Selected option
+ */
+.option-selected {
+    background-color: #eee;
+}
+/**
+ * Hovered option
+ */
+.option-hover {
+    background-color: #dfdfdf;
+    color: #454545;
+}
+/**
+ * Option item
+ */
+.option-item {
+    cursor: pointer;
+    /*border-bottom: 1px #e3e3e3 solid;*/ }
+.option-item:hover {
+    background-color: #efefef;
+    color: #454545;
+}
+.option-item:last-child {
+    border-bottom: none;
+}
+/**
+ * Disabled and optgroups
+ */
+/*.option-group {
+  cursor: text;
+  font-weight: 600;
+  background: #e1e1e1;
+  border: 1px #ccc solid;
+  border-width: 1px 0; }*/
+
+/**
+ * Disabled
+ */
+.option-disabled {
+    opacity: 0.5;
+}
+/**
+ * Dropdown
+ */
+.combo-dropdown {
+    position: absolute;
+    z-index: 999;
+    top: 100%;
+    left: 0;
+    min-width: 100%;
+    max-width: 300px;
+    max-height: 270px;
+    margin: 0;
+    padding: 0;
+    opacity: 0;
+    visibility: hidden;
+    /*display: none;*/
+    overflow-y: auto;
+    background: #5D5D63;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12), 0 1px 6px rgba(0, 0, 0, 0.12);
+    -webkit-transition: all 0.2s ease-out;
+    -ms-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    border-radius: 0;
+    box-sizing: border-box;
+    -webkit-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+    -webkit-transform-origin: top left;
+    -ms-transform-origin: top left;
+    transform-origin: top left;
+    color: white;
+}
+.combo-dropdown li {
+    list-style: none;
+    padding: 10px 15px;
+    margin: 0 !important;
+}
+/**
+ * On Active
+ */
+.combo-open .combo-dropdown {
+    /*display: block; */
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+    visibility: visible;
+}
+/**
+ * Search marker
+ */
+.combo-marker {
+    text-decoration: underline;
+}
+
+
+input{
+    direction: ltr;
+    unicode-bidi: bidi-override;
+}
+p{
+
+    direction: ltr;
+    unicode-bidi: bidi-override;
+}
