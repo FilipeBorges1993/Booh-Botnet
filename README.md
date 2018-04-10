@@ -32,7 +32,9 @@
 
   This route can be disabled manually
 
-  * `Admin / routes / web.php -> find ->`
+  * `Admin / routes / web.php`
+
+  and Comment the line
 
 
   ```php
