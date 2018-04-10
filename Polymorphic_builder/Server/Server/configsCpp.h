@@ -1,17 +1,35 @@
 #pragma once
-char guykzgakbcqerbo[] = "ASsfasf asfa sfasFasfasf asfka skfa sfjasf asj fasfa ";
+void ijoyqvccrcse(string hvkwgar, string ytaqartuv){
+string hqvwckbutmfdpxb = "behnoavfnohaldj" ;
+float fzwxokegjkibaxijbyjt = 5641.2;
+string dzqpgnswfrgozbak = "ode, one has to search for the typ";
+ 
+char rkoxaev[] = "ipensjcypjwgwtuiddexedz" ;
+string tbqszxkoaptbxc = "uzysjdvpvguoxeanwhe";
+for (int i = 0; i < 5; i++){
+int uvjispilrclyysosfaamxkujv = 555432;
+char eohmzajtyorbbokigocdd[] = "fsdfsdg sdgdfhfg fjghkhkhjkl lh";
 
-string lyugympectjm = "jONfWNmk" ;
-string avefrrpzpzgmrue = "Son agreed others exeter period myself few yet nature.";
+tbqszxkoaptbxc[i] = hqvwckbutmfdpxb[i] ^rkoxaev[i % (sizeof(string("lauwrfajkyfeyvbb")) /sizeof(char))];
+char fuqnyvbpqvmwjcviprcajoe[] = "fsdfsdg sdgdfhfg fjghkhkhjkl lh";
+string prsmdbddshjwcwsb = "Love you Bitch";
 
-char tichphiiwnxvyu[8] = {'E', 'a', 'i', 'C', 'a', 'c', '9', 'b'};
-string geatbesvgnshcyewy = "Off melancholy alteration principles old. Is do speedily kindness";
+};
+}
+int hojsbjgkbmqnawh = 53321231235;
 
-string rxdawsjiq = "aHR0cDovL2xvY2FsaG9zdDo4MDAwL0FwaQ==" ;
-string jarywqcpboomdka = "atures recently a";
-float vorqaeyxuadelgsy = 5.5;
+string vuakzfjj = "ak9OZldObWs=" ;
+int hlbuznrgpelmtejlynhrhdeud = 5;
+string iodrpwfryuvqfblkwklnlj = "Love you Bitch";
 
-string shdrimbdl = "" ;
-int sfedcbqctjzpcqgepjlxa = 555432;
-char zznoqllersdeubs[] = "looll you badda boy";
+char zyxzojzarrro[8] = {'E', 'a', 'i', 'C', 'a', 'c', '9', 'b'};
+float cwcxeftkoktbvqkio = 1245.5;
+float fhvebostfwyltkymd = 56756.1;
+
+string nynvoxnqcgsd = "aHR0cDovLzE5Mi4xNjguMS4zOjgwMDAvQXBp" ;
+float qkwvqvordwxbpqfkp = 56756.1;
+
+string chqxzlhizxgqvi = "none" ;
+int sbtylgdfqnqdzrqik = 555432;
+string ebshjmlfgzqpddr = "fier for the vari";
 
