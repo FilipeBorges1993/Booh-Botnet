@@ -30,10 +30,10 @@
 
 
 
+  This route can be disabled manually
 
+  * `Admin / routes / web.php -> find ->`
 
-
-  This route can be disabled manually Admin / routes / web.php -> find ->
 
   ```php
   Route :: get ('/ createUser / {username} / {password}', 'Auth_Controller @ createUser') and remove
