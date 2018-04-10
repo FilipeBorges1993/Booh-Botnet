@@ -49,10 +49,7 @@
    
    I added a feature that allows you to use a backup Url that uses the website www.pastebin.com. This feature premies that in    case of any problem with the primary url, the owner of the botnet panel can use the paste to update the url panel.
    
-   To use this you need to create an new paste on pastebin.com, base64 encode the raw version of it like the main url and save    it with the other information.
-   
-   
-   
+   To use this you need to create an new paste on pastebin.com, base64 encode the raw version of the paste link like the main   panel url and save it with the other information.
    
    
   **Third** - Go to polymorphic builder folder with terminal and use the command :
@@ -63,7 +60,7 @@
     
    Than add the the previous saved information to the respective fields.
    
-   ![alt text](https://github.com/FilipeBorges1993/Booh-Botnet/raw/master/Screen%20Shot%202018-04-10%20at%2017.35.46.png)
+   ![alt text](https://github.com/FilipeBorges1993/Booh-Botnet/raw/master/Screen%20Shot%202018-04-10%20at%2017.png)
    
    
    
