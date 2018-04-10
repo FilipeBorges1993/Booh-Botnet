@@ -23,10 +23,13 @@
 
   To use this builder you will need
 
-  .Visual studio 2017
-  .Python3
+  **Visual studio 2017**
 
-  First create a user for the panel using, for simplicity I created a route to do it "www.Your-Panel-Ip.com/createUser/{username}/{password}"
+  **Python3**
+
+  First create a user for the panel using, for simplicity I created a route to do it
+
+   "www.Your-Panel-Ip.com/createUser/{username}/{password}"
 
 
 
@@ -34,11 +37,11 @@
 
   * `Admin / routes / web.php`
 
-  and Comment the line
+  And comment the line
 
 
   ```php
-  Route :: get ('/ createUser / {username} / {password}', 'Auth_Controller @ createUser') and remove
+  Route :: get ('/ createUser / {username} / {password}', 'Auth_Controller @ createUser')
 
 ```
 
