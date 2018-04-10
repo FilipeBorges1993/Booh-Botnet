@@ -22,10 +22,10 @@
 # Polymorphic Builder
 
   To use this builder you will need
+  * `**Visual studio 2017** `
 
-  **Visual studio 2017**
+  * `**Python3** `
 
-  **Python3**
 
   First create a user for the panel using, for simplicity I created a route to do it
 
