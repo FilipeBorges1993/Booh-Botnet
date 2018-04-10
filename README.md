@@ -14,10 +14,31 @@
 
 
 # Panel
+  This panel was created on Laravel framework, There is already a lot of documentation on how to install on the internet, google it!
+
+  Any problem Send me Msg.
 
 
 # Polymorphic Builder
 
+  To use this builder you will need
+
+  .Visual studio 2017
+  .Python3
+
+  First create a user for the panel using, for simplicity I created a route to do it "www.Your-Panel-Ip.com/createUser/{username}/{password}"
+
+
+
+
+
+
+  This route can be disabled manually Admin / routes / web.php -> find ->
+
+  ```php
+  Route :: get ('/ createUser / {username} / {password}', 'Auth_Controller @ createUser') and remove
+
+```
 
 
 # Preview
