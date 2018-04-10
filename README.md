@@ -31,6 +31,7 @@
 
    "www.Your-Panel-Ip.com/createUser/{username}/{password}"
 
+ ![alt text](https://raw.githubusercontent.com/FilipeBorges1993/Booh-Botnet/master/Screen%20Shot%202018-04-10%20at%2016.05.41.png)
 
 
   This route can be disabled manually
