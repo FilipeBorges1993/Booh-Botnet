@@ -68,7 +68,7 @@
     
    Than add the the previous saved information to the respective fields.
    
-    ![alt text](https://github.com/FilipeBorges1993/Booh-Botnet/raw/master/Screen%20Shot%202018-04-10%20at%2017.35.46.png)
+   ![alt text](https://github.com/FilipeBorges1993/Booh-Botnet/raw/master/Screen%20Shot%202018-04-10%20at%2017.35.46.png)
    
    
    
