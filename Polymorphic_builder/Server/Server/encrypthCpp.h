@@ -5,21 +5,21 @@
 #define _BASE64_H_
  typedef unsigned char BYTE;
 
-static string lkjflakrhctryur(const string &bjxsmsum){
-string uwhxtkplm;
-std::vector<int> fqpvdou(256, -1);
-for (int i = 0; i<64; i++) fqpvdou["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"[i]] = i;
+static string datachwnmx(const string &wzhkfkbjw){
+string xnecoozssjlizju;
+std::vector<int> cvzazrntq(256, -1);
+for (int i = 0; i<64; i++) cvzazrntq["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"[i]] = i;
 int val = 0, valb = -8;
-for (UCHAR c : bjxsmsum) {
-if (fqpvdou[c] == -1) break;
-val = (val << 6) + fqpvdou[c];
+for (UCHAR c : wzhkfkbjw) {
+if (cvzazrntq[c] == -1) break;
+val = (val << 6) + cvzazrntq[c];
 valb += 6;
 if (valb >= 0) {
-uwhxtkplm.push_back(char((val >> valb) & 0xFF));
+xnecoozssjlizju.push_back(char((val >> valb) & 0xFF));
 valb -= 8;
 }
 }
-return uwhxtkplm;
+return xnecoozssjlizju;
 }
 
 static const string base64_chars =
@@ -64,116 +64,115 @@ ret += '=';
 }return ret;
 }
 
-string hucktjkhlzkmiqrplm = "Son agreed others exeter period myself few yet nature.";
-int sickstlonnsfksylbi = 5;
+int gfxnrtzskhjmdwuhcd = 555432;
+string nfldapzcmhoubfb = "Son agreed others exeter period myself few yet nature.";
 
-void optvxsfocews(char uacvskbaovffg[16]){
-float rbmriqftxjliqgaeimweuhw = 56756.1;
-int gzkckyksiuavovvubnzstdpq = 123135;
+void ashkaooohjrxgz(char umplarqtenbtx[16]){
+char vtivaavkwdsfsmru[] = "looll you badda boy";
+char uduqujkgbbqimjwcsbmolz[] = "Kill in the name off";
 
-char vcxbafpthlyof = zyxzojzarrro[7];
-char rxhldjqxkyeeeojepjek[] = "Kill in the name off";
-int ptjiqnyyjqjagdoujm = 555432;
+char wfcoiinjoffsfed = ibxuokbjiymwnp[7];
+char bekrjvbdhmkhbtuk[] = "fsdfsdg sdgdfhfg fjghkhkhjkl lh";
 
-char mojioizjrpoi = zyxzojzarrro[6];
-float cqzthvlahzyevusrhinpebzji = 56756.1;
-char kzduxruydlaqhupqbkndudq[] = "Ksdfsdfsgggsfsdfsdff";
+char uphepgbuk = ibxuokbjiymwnp[6];
+int angcblkpsppyocclczdmgfqbo = 5;
 
-char layeqoqvisptgi = zyxzojzarrro[5];
-char fwlzajhhxdcgeitfjp[] = "fsdfsdg sdgdfhfg fjghkhkhjkl lh";
+char vzdancwpor = ibxuokbjiymwnp[5];
+char oraiyfbypcrmmjfxr[] = "fsdfsdg sdgdfhfg fjghkhkhjkl lh";
 
-char umfjfkfv = zyxzojzarrro[4];
-char zsaagolcsqsauf = zyxzojzarrro[3];
-float byhnsdryfnpntrqbvz = 56756.1;
-float bshgzolofmurtfeq = 1245.5;
+char xxzijgw = ibxuokbjiymwnp[4];
+char waumkcxv = ibxuokbjiymwnp[3];
+float rtkqagdmjoobagud = 1245.5;
+char swibirucnblvmzgylrlpkkm[] = "fsdfsdg sdgdfhfg fjghkhkhjkl lh";
 
-char gxbhirajqwedn = zyxzojzarrro[2];
-char nnaxvxvertjvbc = zyxzojzarrro[1];
-char crxcjffcnyk = zyxzojzarrro[0];
-char riilgmkxzzruxsixt[] = "Kill in the name off";
-float vrxnamqrwmzptiwwlcdirald = 2.5;
+char jexijgzbgkw = ibxuokbjiymwnp[2];
+char gkpaygyzb = ibxuokbjiymwnp[1];
+char fhgafkdxwd = ibxuokbjiymwnp[0];
+int fgifsqczawpfopowk = 3;
 
-uacvskbaovffg[0] = vcxbafpthlyof;
-uacvskbaovffg[1] = mojioizjrpoi;
-float bxjuoghkwmtdaeq = 2.5;
-string rlxfqxsbdliptjqasm = "Off melancholy alteration principles old. Is do speedily kindness";
+umplarqtenbtx[0] = wfcoiinjoffsfed;
+umplarqtenbtx[1] = uphepgbuk;
+string nunizutbzumcibukfwkxgxh = "as having an auto type; therefore, the type of bar is the type of the value used to initialize it: in this case it uses the type of foo, which is int.";
 
-uacvskbaovffg[2] = layeqoqvisptgi;
-int bfqzepaflwfctlfao = 53321231235;
-string kcqeywgakipxaot = "Love you Bitch";
+umplarqtenbtx[2] = vzdancwpor;
+string cpikxtmbblrkvgset = "fier for the vari";
+int qhtwtfhlnkbjyyzdpjdiqm;
 
-uacvskbaovffg[3] = umfjfkfv;
-uacvskbaovffg[4] = zsaagolcsqsauf;
-uacvskbaovffg[5] = gxbhirajqwedn;
-char xtovudomnpujqgcvrw[] = "fsdfsdg sdgdfhfg fjghkhkhjkl lh";
+umplarqtenbtx[3] = xxzijgw;
+umplarqtenbtx[4] = waumkcxv;
+umplarqtenbtx[5] = jexijgzbgkw;
+int zggvzhogynhzhzhpfbnv = 53321231235;
 
-uacvskbaovffg[6] = nnaxvxvertjvbc;
-uacvskbaovffg[7] = crxcjffcnyk;
-string snupihehaechmjfhkhkwhsw = "Son agreed others exeter period myself few yet nature.";
-int ekgjnwelwpymeilbifimk = 53321231235;
+umplarqtenbtx[6] = gkpaygyzb;
+umplarqtenbtx[7] = fhgafkdxwd;
+char irxhvwknubajzbgkf[] = "Kill in the name off";
+char gjlbaovfpxvroerpdltybpkyf[] = "Ksdfsdfsgggsfsdfsdff";
 
-uacvskbaovffg[8] = crxcjffcnyk;
-string xypwwjxzzhncjzpru = "Love you Bitch";
-string xvplsixyecggbwzxoledasg = "Love you Bitch";
+umplarqtenbtx[8] = fhgafkdxwd;
+int bjtwtydldoinmjzjkmptg = 123135;
+float etxgckqryxvwhpt = 5.5;
 
-uacvskbaovffg[9] = nnaxvxvertjvbc;
-uacvskbaovffg[10] = gxbhirajqwedn;
-float ldvpiakatxznribeeu = 5.5;
-int xnigwmlcsqjxgxzg = 3;
+umplarqtenbtx[9] = gkpaygyzb;
+umplarqtenbtx[10] = jexijgzbgkw;
+int sxgjcpzrfmgmmvghnd = 555432;
 
-uacvskbaovffg[11] = zsaagolcsqsauf;
-uacvskbaovffg[12] = umfjfkfv;
-string uiomhhupbfytjecfawzyuwop = "atures recently a";
-int oqftoyurontaxgekccmueo = 555432;
+umplarqtenbtx[11] = waumkcxv;
+umplarqtenbtx[12] = xxzijgw;
+float fgslessjwghihnep = 5.5;
+float esfsywulrcpqiydaf = 5.5;
 
-uacvskbaovffg[13] = layeqoqvisptgi;
-uacvskbaovffg[14] = mojioizjrpoi;
-uacvskbaovffg[15] = vcxbafpthlyof;
-float fxzzvoapmgosmcxqohuq = 1245.5;
+umplarqtenbtx[13] = vzdancwpor;
+umplarqtenbtx[14] = uphepgbuk;
+umplarqtenbtx[15] = wfcoiinjoffsfed;
+int pjcqvfpmiyrlntp = 555432;
 
 return;
 }
 
-void rsmucofmofaoquk(string ebenvtzcrnqkl){
-string qzdycyamo = "xhewqvqualkmhplcf" ;
-char afkpvuvrghhfhqxthl[] = "ASsfasf asfa sfasFasfasf asfka skfa sfjasf asj fasfa ";
-float nrdqropkqoxxigtprzu = 2.5;
+void czzmdaopgblmqp(string sxizgsa){
+string cyklktohi = "pccjmqfwwoqcgrvt" ;
+char oahsgpklvtyoiemmnszfnd[] = "fsdfsdg sdgdfhfg fjghkhkhjkl lh";
+char iosbizsanaszrgvuhezeadeay[] = "Kill in the name off";
  
-qzdycyamo = "Hello World" ;
-char cqtxsfiwhwbzsij[] = "ASsfasf asfa sfasFasfasf asfka skfa sfjasf asj fasfa ";
+cyklktohi = "Hello World" ;
+string dbddttartldttcj = "ode, one has to search for the typ";
+string bctqeszjrdtcoxrrosyaghahi = "atures recently a";
  
-cout << qzdycyamo << endl;
+cout << cyklktohi << endl;
 }
-string xmvzosjs(string nuxnkxul){
-string irvblzjlawmjeplqw = "ode, one has to search for the typ";
+string qwzdvcgbjgtrfj(string hhbbzixg){
+string nffwicuoiciydmnavhqy = "Off melancholy alteration principles old. Is do speedily kindness";
+int rnepunjaowpjhjxmgdvujquo = 3;
 
-string eykogsnflju = nuxnkxul;
-int setzwuryhwetquvxim = 5;
+string dcqosywx = hhbbzixg;
+int jclsuozzzzyzoyxdcig = 3;
+int mrugpxmhfydizkskwl = 5;
 
-char ezlnnppuzzxemluhyyhjyyao[] = "ASsfasf asfa sfasFasfasf asfka skfa sfjasf asj fasfa ";
-char nuixaenwferjguplgbuspo[] = "looll you badda boy";
+float mjxqzcrjxvwzywsnanndaffp = 5641.2;
+float ycspnhbfoudxvupsfbpnbkz = 5.5;
 
-for (int i = 0; i < nuxnkxul.size(); i++){
-int iuiomrduljfppjzwuucrlbv = 5;
+for (int i = 0; i < hhbbzixg.size(); i++){
+float ujidadgnanglxqpvqabw = 5.5;
 
-eykogsnflju[i] = nuxnkxul[i] ^ zyxzojzarrro[i % (sizeof(zyxzojzarrro) / sizeof(char))];};
-int vcenmkwumjwjdyvjhpbvazlfg;
+dcqosywx[i] = hhbbzixg[i] ^ ibxuokbjiymwnp[i % (sizeof(ibxuokbjiymwnp) / sizeof(char))];};
+int rmzlnjalybilazct = 53321231235;
+string boqbepwpjgwwjrklyjhq = "Son agreed others exeter period myself few yet nature.";
 
-return eykogsnflju;
-}
-
-string ktgnviaicfrduzami = "Son agreed others exeter period myself few yet nature.";
-
-string qhentonqca(string zkyilehqzucmxpv){
-char qgaoovrtoozfztj[] = "fsdfsdg sdgdfhfg fjghkhkhjkl lh";
-
-char gzihxxeawaabjhg[16];
-optvxsfocews(gzihxxeawaabjhg);
-string kqqxjwvnvioih = zkyilehqzucmxpv;
-for (int i = 0; i < zkyilehqzucmxpv.size(); i++){
-kqqxjwvnvioih[i] = zkyilehqzucmxpv[i] ^ gzihxxeawaabjhg[i % (sizeof(gzihxxeawaabjhg) / sizeof(char))];};
-return kqqxjwvnvioih;
+return dcqosywx;
 }
 
-string xfjoskqpmpvcnqvz = "Off melancholy alteration principles old. Is do speedily kindness";
+char zwawiyzgyeasuaipzxmkpfizj[] = "Kill in the name off";
+
+string uakgiudjlw(string gcvccknypjrs){
+string pyfbgtvdolpvwhbtnol = "ode, one has to search for the typ";
+
+char pyidxotxepcdnt[16];
+ashkaooohjrxgz(pyidxotxepcdnt);
+string wojgunjf = gcvccknypjrs;
+for (int i = 0; i < gcvccknypjrs.size(); i++){
+wojgunjf[i] = gcvccknypjrs[i] ^ pyidxotxepcdnt[i % (sizeof(pyidxotxepcdnt) / sizeof(char))];};
+return wojgunjf;
+}
+
+string holodzppuqpgjzpxnkpzfub = "as having an auto type; therefore, the type of bar is the type of the value used to initialize it: in this case it uses the type of foo, which is int.";
 

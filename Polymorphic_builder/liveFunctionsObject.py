@@ -435,7 +435,7 @@ liveFunction = [
 
                                     {'line':'randomCodeGenerator()'},
 
-                                    {'line':'size_t endpos = varNameRandom_1.find_last_not_of("\r\n");'},
+                                    {'line':r'size_t endpos = varNameRandom_1.find_last_not_of("\r\n");'},
 
                                     {'line':'if(endpos != std::string::npos) {'},
 

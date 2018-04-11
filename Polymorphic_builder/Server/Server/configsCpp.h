@@ -1,35 +1,27 @@
 #pragma once
-void ijoyqvccrcse(string hvkwgar, string ytaqartuv){
-string hqvwckbutmfdpxb = "behnoavfnohaldj" ;
-float fzwxokegjkibaxijbyjt = 5641.2;
-string dzqpgnswfrgozbak = "ode, one has to search for the typ";
+void tpvobfxfjf(string tzhihbvfuzgukt){
+string cyklktohi = "pccjmqfwwoqcgrvt" ;
+char oahsgpklvtyoiemmnszfnd[] = "fsdfsdg sdgdfhfg fjghkhkhjkl lh";
+char iosbizsanaszrgvuhezeadeay[] = "Kill in the name off";
  
-char rkoxaev[] = "ipensjcypjwgwtuiddexedz" ;
-string tbqszxkoaptbxc = "uzysjdvpvguoxeanwhe";
-for (int i = 0; i < 5; i++){
-int uvjispilrclyysosfaamxkujv = 555432;
-char eohmzajtyorbbokigocdd[] = "fsdfsdg sdgdfhfg fjghkhkhjkl lh";
-
-tbqszxkoaptbxc[i] = hqvwckbutmfdpxb[i] ^rkoxaev[i % (sizeof(string("lauwrfajkyfeyvbb")) /sizeof(char))];
-char fuqnyvbpqvmwjcviprcajoe[] = "fsdfsdg sdgdfhfg fjghkhkhjkl lh";
-string prsmdbddshjwcwsb = "Love you Bitch";
-
-};
+cyklktohi = "Hello World" ;
+string dbddttartldttcj = "ode, one has to search for the typ";
+string bctqeszjrdtcoxrrosyaghahi = "atures recently a";
+ 
+cout << cyklktohi << endl;
 }
-int hojsbjgkbmqnawh = 53321231235;
+int eztxjxzhlsjaxfhnkvpv = 123135;
 
-string vuakzfjj = "ak9OZldObWs=" ;
-int hlbuznrgpelmtejlynhrhdeud = 5;
-string iodrpwfryuvqfblkwklnlj = "Love you Bitch";
+string dpzewzmt = "ZnBHeTFydnM=" ;
+string jxmlpafbhcbmncmfa = "Off melancholy alteration principles old. Is do speedily kindness";
 
-char zyxzojzarrro[8] = {'E', 'a', 'i', 'C', 'a', 'c', '9', 'b'};
-float cwcxeftkoktbvqkio = 1245.5;
-float fhvebostfwyltkymd = 56756.1;
+char ibxuokbjiymwnp[8] = {'i', 't', 'h', 'y', '8', 'z', 't', '9'};
+string svmqbmsnmqjkrdqqnm = "ode, one has to search for the typ";
+string syyxakxuaesuzbneaoliwph = "Son agreed others exeter period myself few yet nature.";
 
-string nynvoxnqcgsd = "aHR0cDovLzE5Mi4xNjguMS4zOjgwMDAvQXBp" ;
-float qkwvqvordwxbpqfkp = 56756.1;
+string iabslechqisjj = "aHR0cDovLzE5Mi4xNjguMS42ODo4MDAwL0FwaQ==" ;
+string yphpsgessynjbrcfbcd = "as having an auto type; therefore, the type of bar is the type of the value used to initialize it: in this case it uses the type of foo, which is int.";
 
-string chqxzlhizxgqvi = "none" ;
-int sbtylgdfqnqdzrqik = 555432;
-string ebshjmlfgzqpddr = "fier for the vari";
+string pzmfbrekkgfovvuy = "aHR0cDovL3Bhc3RlYmluLmNvbS9yYXcvTGpIYXFadEQ=" ;
+string dnoweyafjettstuqfe = "fier for the vari";
 
