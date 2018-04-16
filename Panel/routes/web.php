@@ -18,7 +18,7 @@ Route::group(['middleware' => 'web'], function () {
     Route::get('/logout','Auth_Controller@logout')->name('logout')->middleware('auth');
 
     //Create user
-    Route::get('/43Sdafas/{username}/{password}', 'Auth_Controller@createUser');
+    Route::get('/createUser/{username}/{password}', 'Auth_Controller@createUser');
 
     //Ajax
     Route::post('/ajax', 'AjaxController@getAjax')->name('ajax')->middleware('auth');
