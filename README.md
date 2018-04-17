@@ -2,6 +2,7 @@
 
  Booh! is a simple Http Botnet built by "Droid" which is a pseudonym of Filipe Borges with the aim of doing research in the area of digital security.
  More info can be Read on http://laughing-wiles-dd9f06.bitballoon.com/ , 
+ 
  Panel Preview http://51.38.32.138/ -> credentials $user->Droid, $password->'123';
 
  # How To Instal
