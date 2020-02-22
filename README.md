@@ -7,7 +7,6 @@
  
  Panel : http://51.38.32.138/  (credentials $user-> **Droid**, $password-> **'123'**;
  
- Discord : SonicBe#0250
 
  # How To Instal
  * [Panel(Laravel)](#Panel)
