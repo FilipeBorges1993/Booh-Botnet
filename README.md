@@ -3,7 +3,7 @@
  Booh! is a simple Http Botnet built by "Droid" which is a pseudonym of Filipe Borges with the aim of doing research in the area of digital security.
  More info:
  
- Landing page : http://suspicious-darwin-c16b97.netlify.app , 
+ Landing page : https://filipeborges1993.github.io/Booh-Botnet , 
  
  Panel : http://51.38.32.138/  (credentials $user-> **Droid**, $password-> **'123'**;
  
